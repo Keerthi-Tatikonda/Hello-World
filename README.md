@@ -1,2 +1,2 @@
-# Hello-World
-This is my first repository
+This is Keerthi Tatikonda
+Iam a graduate student in computer science in wichita state university.
